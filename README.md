@@ -4,6 +4,7 @@
 
  Tata Data Visualisation: Empowering Business with Effective Insights Job
     Simulation on Forage
+
   * Completed a simulation involving creating data visualizations for Tata
      Consultancy Services
   * Prepared questions for a meeting with client senior leadership
@@ -17,6 +18,7 @@
 # PWC Switzerland virtual internship certificate
 
   PwC Switzerland Power BI Job Simulation on Forage
+
    * Completed a job simulation where I strengthened my PowerBI skills to better
        understand clients and their data visualization needs.
    * Demonstrated expertise in data visualization through the creation of Power BI
@@ -38,7 +40,7 @@
 # Accenture virtual internship certificate
 
 Accenture North America Data Analytics and Visualization Job Simulation on
-Forage - October 2024
+Forage
 
  * Completed a simulation focused on advising a hypothetical social media client
    as a Data Analyst at Accenture
@@ -47,5 +49,6 @@ Forage - October 2024
  * Prepared a PowerPoint deck and video presentation to communicate key insights
    for the client and internal stakeholders
 
-![image alt]
+
+![image alt](https://github.com/22TAUSIF/Virtual-Internship-Certificates/blob/932e8c8a8d63eae0e42e14857c86b8d35ad02b95/accenture%20internship%20certificate%20Screenshot%202024%20oct%2013.png)
  
