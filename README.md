@@ -9,7 +9,7 @@
   * Created visuals for data analysis to help executives with effective decision
      making
     
-![image alt](https://github.com/22TAUSIF/Virtual-Internship-Certificates/blob/1ae0b3391b69177e332a7bb47beb9d93ce1047e0/TATAIQ%20virtual%20internship%20certificate%2027Nov.pdf)
+
 
 # PWC Switzerland virtual internship certificate
   PwC Switzerland Power BI Job Simulation on Forage
