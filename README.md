@@ -13,7 +13,9 @@
     
  ![image alt](https://github.com/22TAUSIF/Virtual-Internship-Certificates/blob/a41f7632b9d81b6abd629e47ae4b0225f352d6b5/TATAIQ%20virtual%20internship%20certificate%20Screenshot%202024%20oct%2013.png)
 
+
 # PWC Switzerland virtual internship certificate
+
   PwC Switzerland Power BI Job Simulation on Forage
    * Completed a job simulation where I strengthened my PowerBI skills to better
        understand clients and their data visualization needs.
@@ -27,6 +29,23 @@
       focusing on gender-related KPIs, and identifying root causes for gender
       balance issues at the executive management level, highlighting a commitment
       to data-driven decision-making.
+
+
+![image alt](https://github.com/22TAUSIF/Virtual-Internship-Certificates/blob/547eb7abbb59a98010f133b834f74c058cacd6a6/pwc%20switzerland%20virtual%20intership%20certificate%20Screenshot%202024%20oct%2013.png)
+
+
+
+# Accenture virtual internship certificate
+
+Accenture North America Data Analytics and Visualization Job Simulation on
+Forage - October 2024
+
+ * Completed a simulation focused on advising a hypothetical social media client
+   as a Data Analyst at Accenture
+ * Cleaned, modeled, and analyzed 7 datasets to uncover insights into content
+   trends to inform strategic decisions
+ * Prepared a PowerPoint deck and video presentation to communicate key insights
+   for the client and internal stakeholders
 
 ![image alt]
  
