@@ -1,6 +1,7 @@
 # Virtual-Internship-Certificates
 
 # TATAIQ virtual internship certificate
+
  Tata Data Visualisation: Empowering Business with Effective Insights Job
     Simulation on Forage
   * Completed a simulation involving creating data visualizations for Tata
@@ -8,6 +9,7 @@
   * Prepared questions for a meeting with client senior leadership
   * Created visuals for data analysis to help executives with effective decision
      making
+
     
  ![image alt](https://github.com/22TAUSIF/Virtual-Internship-Certificates/blob/a41f7632b9d81b6abd629e47ae4b0225f352d6b5/TATAIQ%20virtual%20internship%20certificate%20Screenshot%202024%20oct%2013.png)
 
