@@ -9,3 +9,4 @@
   * Created visuals for data analysis to help executives with effective decision
    making
     
+![image alt]
